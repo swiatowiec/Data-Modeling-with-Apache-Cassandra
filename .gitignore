@@ -1,0 +1,5 @@
+/.ipynb_checkpoints
+/event_data
+/images
+*.Identifier
+event_datafile_new.csv
